@@ -383,7 +383,7 @@
     "name": "SOURCE_REPOSITORY_URL",
     "displayName": "Git Repository URL",
     "description": "The URL of the repository with your application source code.",
-    "value": "https://gitlab.com/donnigundala/laravel5.4-OpenShift.git",
+    "value": "https://github.com/donnigundala/laravel-54-OpenShift.git",
     "required": true
   }, {
     "name": "SOURCE_REPOSITORY_REF",
